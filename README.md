@@ -5,3 +5,8 @@ Mockups Home Work
 2. Add your folder with naming rule 
     {YOUR ID}.{YOUR NAME} eg. 1.Kruy Vanna
 3. Do a pull request
+
+
+ADD FROM PHEARIN
+
+My Name is kako
